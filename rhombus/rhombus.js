@@ -65,7 +65,7 @@
     //Declaring Text Style and color
     var textStyle = {
         graphColor: "#eee",
-        lineColor: "blue",
+        lineColor: "red",
         textFont: "20px Georgia"
     };
     //Declaring constants for drawing a graph
