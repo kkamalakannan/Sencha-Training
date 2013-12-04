@@ -1,0 +1,22 @@
+﻿#canvas
+{
+    border: solid black 2px
+    }
+#left_content
+{
+    float:left;
+    width:50%    
+    
+}
+#right_content
+{
+    float:right;
+     margin:auto;
+    width:48%;
+  background-color:#b0e0e6;
+    }
+.centered
+{
+    text-align:center;
+    
+    }
